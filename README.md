@@ -7,6 +7,12 @@ This project researched and visualized how lyrics and associated data of popular
 # Data
 
 ## Crawling/Analysis
+<div class="container">
+    <p>&nbsp;<img align="left" src="https://github.com/Saurabh7Goku/Billboard-Analysis/blob/main/Snap1.png" alt="SnapShot 1" /></p>
+    <p><img align="center" src="https://github.com/Saurabh7Goku/Billboard-Analysis/blob/main/Snap3.png" alt="SnapShot 2" /></p>
+    <p><img align="right" src="https://github.com/Saurabh7Goku/Billboard-Analysis/blob/main/Snap2.png" alt="SnapShot 3" /></p>
+</div>
+
 
 ### Billboard Top 100 Songs
 
